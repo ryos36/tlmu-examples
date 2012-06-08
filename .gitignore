@@ -1,0 +1,3 @@
+*.o
+.tlmu
+stellaris_example/sc_example
